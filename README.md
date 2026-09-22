@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="src/assets/melina.gif" alt="Descripción" width="300">
+  <img src="/assets/melina.gif" alt="Descripción" width="300">
 </p>
 
 # EN 
@@ -52,7 +52,7 @@ Remove a player from the queue.
 * ***/multi_xp***
 Give an optional XP multiplier to a player.
 <p align="left">
-  <img src="src/assets/MultiXP.png" alt="Descripción" width="200">
+  <img src="/assets/MultiXP.png" alt="Descripción" width="200">
 </p>
 
 ## Players and stats:
@@ -69,7 +69,7 @@ Change a registered player name.
 * ***/leadeboard***
 Display players sorted by category and using filters as player and role. For example, the top 10:
 <p align="left">
-  <img src="src/assets/leader2.png" alt="Descripción" width="200">
+  <img src="/assets/leader2.png" alt="Descripción" width="200">
 </p>
 
 * ***/join***
