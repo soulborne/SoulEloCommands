@@ -9,6 +9,11 @@
   <img src="/assets/melina.gif" alt="Descripción" width="300">
 </p>
 
+
+<h1 align="center">
+Commands
+</h1>
+
 # EN 
 
 ## Admin commands:
@@ -115,3 +120,14 @@ Show the latest recorded game for a channel.
 
 * ***/sub***
 Substitute a player in a game by its ID.
+
+
+<h1 align="center">
+Dashboard
+</h1>
+
+## Home page:
+
+<p align="left">
+  <img src="/assets/Dashboard1.png" alt="Descripción" width="300">
+</p>
