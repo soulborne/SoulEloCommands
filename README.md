@@ -52,7 +52,7 @@ Remove a player from the queue.
 * ***/multi_xp***
 Give an optional XP multiplier to a player.
 <p align="left">
-  <img src="/assets/MultiXP.png" alt="Descripción" width="200">
+  <img src="/assets/MultiXP.png" alt="Descripción" width="300">
 </p>
 
 ## Players and stats:
@@ -60,17 +60,28 @@ Give an optional XP multiplier to a player.
 * ***/register***
 Register to participate in the matchmaking.
 
+* ***/stats***
+Show player stats for the active season.
+<p align="left">
+  <img src="/assets/player-stats.png" alt="Descripción" width="300">
+</p>
+
+* ***/compare***
+Compare the stats of two players.
+
+* ***/leadeboard***
+Display players sorted by category and using filters as player and role. For example, the top 10:
+<p align="left">
+  <img src="/assets/leader2.png" alt="Descripción" width="300">
+</p>
+
 * ***/language***
 Choose Spanish or English for the bot's responses.
 
 * ***/rename***
 Change a registered player name.
 
-* ***/leadeboard***
-Display players sorted by category and using filters as player and role. For example, the top 10:
-<p align="left">
-  <img src="/assets/leader2.png" alt="Descripción" width="200">
-</p>
+## Queue and lobby
 
 * ***/join***
 Enter the queue for this channel.
@@ -87,7 +98,20 @@ Pick player(s) for your team during the Captain’s selection.
 * ***/game***
 Score a game result. **Only mods and scorer**
 
-* ***/compare***
-Compare the stats of two players.
+* ***/clear_queue***
+This is used to clear a queue. If you enter a game ID in the [void], it will be *voided*. Therefore, that number will not be used again and will not be awarded points.
 
-* ***/claer_queue
+* ***/queue***
+Show the players currently in queue.
+
+* ***/queue_stats***
+Show player stats for the active game in this channel.
+
+* ***/view_game***
+Look up a game by ID and show its status.
+
+* ***/last_game***
+Show the latest recorded game for a channel.
+
+* ***/sub***
+Substitute a player in a game by its ID.
