@@ -1,0 +1,93 @@
+<h1 align="center">
+  Soul Elo
+
+  A bot for matchmaking on Discord.
+</h1>
+
+
+<p align="center">
+  <img src="src/assets/melina.gif" alt="Descripción" width="300">
+</p>
+
+# EN 
+
+## Admin commands:
+
+* ***/ban***
+Ban, unban or display all banned users.
+
+* ***/admin_role***
+Assign, remove or view Administrator/Scorer roles. **Available on the Dashboard.**
+
+* ***/maps***
+Add, remove or display maps. **Available on the Dashboard.**
+
+* ***/ranks***
+Show ELO roles and the points for a win, loss, and MVP.
+
+* ***/elo_role***
+Set or remove a role for an ELO range. **Available on the Dashboard.**
+
+* ***/set_season***
+Start a new season for this server. **Available on the Dashboard.**
+
+* ***/reset_season***
+End the active season and reset ELO.
+
+* ***/change***
+Change a player's season stats.
+
+* ***/reset_player***
+Reset a player's season stats.
+
+* ***/force_register***
+A mod registers a player to participate in the matchmaking.
+
+* ***/force_join***
+Add a player to the queue in this channel.
+
+* ***/force_leave***
+Remove a player from the queue.
+
+* ***/multi_xp***
+Give an optional XP multiplier to a player.
+<p align="left">
+  <img src="src/assets/MultiXP.png" alt="Descripción" width="200">
+</p>
+
+## Players and stats:
+
+* ***/register***
+Register to participate in the matchmaking.
+
+* ***/language***
+Choose Spanish or English for the bot's responses.
+
+* ***/rename***
+Change a registered player name.
+
+* ***/leadeboard***
+Display players sorted by category and using filters as player and role. For example, the top 10:
+<p align="left">
+  <img src="src/assets/leader2.png" alt="Descripción" width="200">
+</p>
+
+* ***/join***
+Enter the queue for this channel.
+
+* ***/leave***
+Leave the matchmaking queue.
+
+* **/queue***
+Show the players currently in the queue.
+
+* ***/pick***
+Pick player(s) for your team during the Captain’s selection.
+
+* ***/game***
+Score a game result. **Only mods and scorer**
+
+* ***/compare***
+Compare the stats of two players.
+
+* ***/claer_queue
