@@ -57,7 +57,7 @@ Remove a player from the queue.
 * ***/multi_xp***
 Give an optional XP multiplier to a player.
 <p align="left">
-  <img src="/assets/MultiXP.png" alt="Descripción" width="450">
+  <img src="/assets/MultiXP.png" alt="Descripción" width="500">
 </p>
 
 ## Players and stats:
@@ -68,7 +68,7 @@ Register to participate in the matchmaking.
 * ***/stats***
 Show player stats for the active season.
 <p align="left">
-  <img src="/assets/player-stats.png" alt="Descripción" width="450">
+  <img src="/assets/player-stats.png" alt="Descripción" width="500">
 </p>
 
 * ***/compare***
@@ -77,7 +77,7 @@ Compare the stats of two players.
 * ***/leadeboard***
 Display players sorted by category and using filters as player and role. For example, the top 10. **Available on the Dashboard.**
 <p align="left">
-  <img src="/assets/leader2.png" alt="Descripción" width="450">
+  <img src="/assets/leader2.png" alt="Descripción" width="500">
 </p>
 
 * ***/language***
@@ -124,17 +124,18 @@ Substitute a player in a game by its ID.
 
 <h1 align="center">
 Dashboard
-*For now, most of it is still in development.*
+
+For now, most of it is still in development.
 </h1>
 
 ## Home page:
 
 <p align="left">
-  <img src="/assets/Dashboard1.png" alt="Descripción" width="450">
+  <img src="/assets/Dashboard1.png" alt="Descripción" width="500">
 </p>
 
 ## Dashboard:
 
 <p align="left">
-  <img src="/assets/Dashboard2.png" alt="Descripción" width="450">
+  <img src="/assets/Dashboard2.png" alt="Descripción" width="500">
 </p>
