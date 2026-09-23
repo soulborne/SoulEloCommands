@@ -131,11 +131,11 @@ For now, most of it is still in development.
 ## Home page:
 
 <p align="left">
-  <img src="/assets/Dashboard1.png" alt="Descripción" width="500">
+  <img src="/assets/Dashboard11.png" alt="Descripción" width="500">
 </p>
 
 ## Dashboard:
 
 <p align="left">
-  <img src="/assets/Dashboard2.png" alt="Descripción" width="500">
+  <img src="/assets/Dashboard22.png" alt="Descripción" width="500">
 </p>
