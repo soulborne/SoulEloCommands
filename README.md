@@ -1,12 +1,12 @@
 <h1 align="center">
-  Soul Elo
+  iQ GamerZ ELO
 
   A bot for matchmaking on Discord.
 </h1>
 
 
 <p align="center">
-  <img src="/assets/melina.gif" alt="Descripción" width="300">
+  <img src="/assets/IQAPP.png" alt="Descripción" width="300">
 </p>
 
 
