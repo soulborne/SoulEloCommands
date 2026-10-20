@@ -59,6 +59,7 @@ Give an optional XP multiplier to a player.
 <p align="left">
   <img src="/assets/MultiXP.png" alt="Descripción" width="500">
 </p>
+
 <!--
 ## Players and stats:
 
