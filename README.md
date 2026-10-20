@@ -18,6 +18,9 @@ Commands
 
 ## Admin commands:
 
+* ***/register_role***
+Set up, view, or disable the role that is automatically assigned upon registration.
+
 * ***/ban***
 Ban, unban or display all banned users.
 
@@ -42,8 +45,32 @@ End the active season and reset ELO. **Available on the Dashboard.**
 * ***/change***
 Change a player's season stats.
 
-* ***/reset_player***
-Reset a player's season stats.
+* ***/timeout***
+Sets a timeout of 1 to 672 hours for a mandatory reason, without modifying statistics.
+
+* ***/create_lobby***
+Configure a lobby's channel, XP multiplier, number of players, and teams.
+
+* ***/set_season***
+A season begins for the corresponding division.
+
+* ***/reset_season***
+The season for this category ends, and its record is preserved. This requires empty queues and no pending matches.
+
+* ***/clear_queue***
+Clear the queue. With `void`, you can cancel a game without using any subscription clears.
+
+* ***/sub***
+Replaces one player in a game with another. This is not a subscription command.
+
+* ***/undogame***
+Undo a result so you can correct it by using /game again.
+
+* ***/maptier***
+Link or unlink roles from the Subscriber benefits group.
+
+* ***/subclear_admin***
+Add or remove Subclear uses for an eligible player during the current season.
 
 * ***/force_register***
 A mod registers a player to participate in the matchmaking.
@@ -135,11 +162,13 @@ Clarification regarding changes to certain commands.
 The /win, /lose, and /mvp commands are now options within the new /multi_xp command. Additionally, you can set a timeout.
 
 <p align="left">
-  <img src="/assets/Captura de pantalla 2026-10-20 131126.png" width="45%" alt="Descripción 1"> <img src="/assets/MultiXP.png" width="45%" alt="Descripción 2">
+  <img src="/assets/multixp.gif" alt="Descripción" width="500">
 </p>
 
+<!--
 ## Dashboard:
 
 <p align="left">
   <img src="/assets/Dashboard22.png" alt="Descripción" width="500">
 </p>
+<--
