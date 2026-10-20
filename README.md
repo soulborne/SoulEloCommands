@@ -59,7 +59,7 @@ Give an optional XP multiplier to a player.
 <p align="left">
   <img src="/assets/MultiXP.png" alt="Descripción" width="500">
 </p>
-
+<!--
 ## Players and stats:
 
 * ***/register***
@@ -85,6 +85,7 @@ Choose Spanish or English for the bot's responses.
 
 * ***/rename***
 Change a registered player name.
+
 
 ## Queue and lobby
 
@@ -120,18 +121,20 @@ Show the latest recorded game for a channel.
 
 * ***/sub***
 Substitute a player in a game by its ID.
+-->
 
 
 <h1 align="center">
-Dashboard
+Q&A
 
-For now, most of it is still in development.
+Clarification regarding changes to certain commands.
 </h1>
 
-## Home page:
+## What happened to the /win, /lose, and /mvp commands?
+The /win, /lose, and /mvp commands are now options within the new /multi_xp command. Additionally, you can set a timeout.
 
 <p align="left">
-  <img src="/assets/Dashboard11.png" alt="Descripción" width="500">
+  <img src="/assets/Captura de pantalla 2026-10-20 131126.png" width="45%" alt="Descripción 1"> <img src="/assets/MultiXP.png" width="45%" alt="Descripción 2">
 </p>
 
 ## Dashboard:
