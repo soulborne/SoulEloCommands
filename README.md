@@ -157,9 +157,23 @@ Clarification regarding changes to certain commands.
 
 ## What happened to the /win, /lose, and /mvp commands?
 The /win, /lose, and /mvp commands are now options within the new /multi_xp command. Additionally, you can set a timeout.
+_**Note**: You must specify a reason for the timeout; otherwise, the command will not be executed._
 
 <p align="left">
-  <img src="/assets/multixp.gif" alt="Descripción" width="500">
+  <img src="/assets/multixp.gif" alt="Descripción" width="350">
+</p>
+
+## How do I add or edit a subscription?
+### To add a subscription:
+
+Using the /subconfig command, select the following:
+- Add: Add a subscription.
+- Player: Select the player to whom you want to assign that subscription.
+- Role: Select which (sub) role will be added to that player.
+- Months: The duration of that subscription in months.
+
+<p align="left">
+  <img src="/assets/image.png" alt="Descripción" width="350">
 </p>
 
 <!--
